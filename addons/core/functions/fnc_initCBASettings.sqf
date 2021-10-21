@@ -159,14 +159,6 @@
     0
 ] call CBA_Settings_fnc_init;
 [
-    "TFAR_splendidCamEars",
-    "CHECKBOX",
-    [ELSTRING(settings,splendidCamEars), ELSTRING(settings,splendidCamEars_desc)],
-    localize ELSTRING(settings,clientside),
-    false,
-    0
-] call CBA_Settings_fnc_init;
-[
     "TFAR_noAutomoveSpectator",
     "CHECKBOX",
     [ELSTRING(settings,noAutomoveSpectator), ELSTRING(settings,noAutomoveSpectator_desc)],

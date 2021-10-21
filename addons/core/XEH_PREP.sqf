@@ -42,7 +42,6 @@ PREP_SUB(events\ui,updateLRDialogToChannel);
 
 PREP_SUB(events,onArsenal);
 PREP_SUB(events,onCuratorInterface);
-PREP_SUB(events,onSplendidCamera);
 PREP_SUB(events,onMissionEnd);
 
 // /flexiUI
